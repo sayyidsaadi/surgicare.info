@@ -1,0 +1,1667 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 320px) and (max-width: 479px) {
+  /*  Menu Part Start  */
+  .navbar-toggler-icon {
+    background: #fff;
+    border-radius: 2px;
+  }
+
+  .navbar-nav {
+    text-align: center;
+    background: #444;
+    padding-bottom: 10px;
+  }
+
+  .navbar-light .navbar-nav .nav-link::after {
+    width: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0px;
+  }
+
+  .sadi_trial {
+    margin-top: 10px;
+  }
+
+  .banner_topt_ext p {
+    padding-left: 12%;
+    padding-bottom: 45px;
+  }
+
+  .banner_img img {
+    height: 400px;
+    object-fit: cover;
+  }
+  #home_icon {
+    top: 258px;
+  }
+
+  .apple a {
+    font-size: 15px;
+  }
+
+  .andriod h5,
+  .apple h5 {
+    font-size: 12px;
+    padding: 0px 28px 0px 50px;
+  }
+
+  .bn_icon,
+  .bn_icon2 {
+    top: 12px;
+    left: 10px;
+    font-size: 32px;
+  }
+
+  .bn_icon {
+    font-size: 26px;
+    top: 17px;
+    left: 5px;
+  }
+
+  .andriod a {
+    font-size: 15px;
+  }
+
+  .slick-dots {
+    top: 50%;
+  }
+
+  .banner_topt_ext h2 {
+    font-size: 17px;
+  }
+
+  .banner_topt_ext h3 {
+    font-size: 14px;
+    padding: 5px 0px 10px 0px;
+  }
+
+  .banner_topt_ext h3::after {
+    top: 43px;
+  }
+
+  #about_part {
+    padding: 30px 0px;
+  }
+
+  .sm_sadi {
+    margin-top: 30px;
+  }
+
+  .about_left_text h3::before {
+    top: 55px;
+    left: 42%;
+    transform: translateX(-45%);
+  }
+
+  .bdr_btm::after {
+    top: 50px;
+    right: 71px;
+  }
+
+  .about_left_text h3::after {
+    top: 55px;
+    right: 148px;
+    transform: translateX(-45%);
+  }
+
+  .bdr_btm::before {
+    top: 50px;
+    left: -16px;
+  }
+
+  .sadi_future {
+    text-align: center;
+  }
+
+  .futures_icon {
+    left: 35px;
+  }
+
+  .futures_sub::before {
+    left: 35px;
+  }
+
+  .futures_icon2 {
+    left: 35px;
+  }
+
+  .sub_scnd::before {
+    left: 116px;
+  }
+
+  .futures_icon3 {
+    left: 35px;
+    margin-top: 27px;
+  }
+
+  .futures_sub_glob {
+    margin-left: 102px;
+  }
+  .sub_scnd {
+    margin-left: 102px;
+  }
+
+  .futures_sub_glob::before {
+    left: 37px;
+  }
+
+  .futures_icon4 {
+    top: 353px;
+    left: 35px;
+  }
+
+  .futures_sub_chat::before {
+    left: 113px;
+  }
+
+  .futures_icon5 {
+    top: 477px;
+    left: 35px;
+  }
+
+  .futures_right {
+    text-align: center !important;
+  }
+
+  .futures_heading h3::before {
+    top: 56px;
+    left: 169px;
+  }
+
+  .futures_heading h3::after {
+    top: 52px;
+    left: 165px;
+  }
+  .female-service {
+    margin-top: 30px;
+  }
+
+  #screenshoot_slider {
+    padding: 60px 0px;
+  }
+
+  .screen_headingt h2::after {
+    top: 52px;
+    left: 164px;
+  }
+  .shott::before {
+    top: 55px;
+    right: 33px;
+  }
+  .shott::after {
+    top: 51px;
+    right: 28px;
+  }
+  .tean_be::before {
+    right: 29px;
+  }
+  .tean_be::after {
+    top: 55px;
+    right: 34px;
+  }
+  .female5 {
+    top: 462px;
+    left: 35px;
+  }
+  .visit_mt {
+    margin-top: 20px;
+  }
+
+  .screen_headingt h2::before {
+    top: 56px;
+    left: 169px;
+  }
+
+  .video_section {
+    padding: 130px 0px;
+  }
+
+  #pricing_part {
+    padding: 60px 0px 0px 0px;
+  }
+
+  .sadi_sm_price {
+    margin-top: 60px;
+  }
+
+  .pricing_heading h2::before {
+    top: 51px;
+    left: 165px;
+  }
+  .sadi_sm_ex {
+    margin-top: 60px;
+  }
+
+  .pricing_heading::after {
+    top: 55px;
+    left: 184px;
+  }
+
+  #team_part {
+    padding: 60px 0px;
+  }
+
+  .sadi_sm_card {
+    margin: auto;
+  }
+  .sadi_sm_team {
+    margin-top: 60px;
+  }
+
+  .team_top h2::before {
+    top: 50px;
+    left: 165px;
+  }
+
+  .team_top h2::after {
+    top: 54px;
+    left: 170px;
+  }
+
+  .feedback_heading h2::before {
+    top: 56px;
+    left: 169px;
+  }
+
+  .feedback_heading h2::after {
+    top: 52px;
+    left: 164px;
+  }
+
+  .feed_be::before {
+    left: 31px;
+  }
+
+  .feed_be::after {
+    left: 31px;
+  }
+  .cnt_hed::before {
+    top: 55px;
+    left: 10px;
+  }
+  .cnt_hed::after {
+    top: 51px;
+    left: 10px;
+  }
+
+  .fade_text_content {
+    width: 293px;
+  }
+
+  .fade_text_content::after {
+    top: 315px;
+    left: 202px;
+  }
+  .fade_text_content p {
+    padding: 0px 50px;
+  }
+
+  #contact_part {
+    padding: 60px 0px;
+  }
+
+  .contact_heading h2::before {
+    top: 56px;
+    right: 236px;
+  }
+
+  .contact_heading h2::after {
+    top: 52px;
+    right: 236px;
+  }
+  .sadi_btn {
+    margin-left: 41%;
+  }
+  .futures_sub_chat {
+    padding: 10px 35px 30px 36px;
+  }
+  .banner_topt_ext h3::after {
+    position: absolute;
+    content: "";
+    width: 0px;
+    height: 1px;
+    background: #fff;
+    top: 60px;
+    right: 0px;
+  }
+  .btn_wrap {
+    display: none;
+  }
+  .footer_middle p {
+    font-size: 12px;
+  }
+  .female_icon {
+    margin-top: 25px;
+  }
+  .female_icon2 {
+    margin-top: 50px;
+  }
+  .female_icon3 {
+    margin-top: 50px;
+  }
+  .female_icon4 {
+    margin-top: 52px;
+    position: absolute;
+  }
+  .female_icon5 {
+    margin-top: 67px;
+  }
+}
+@media (min-width: 320px) and (max-width: 362) {
+  .futures_icon3 {
+    left: 35px;
+    margin-top: 0px;
+  }
+  .futures_icon4 {
+    top: 324px;
+    left: 35px;
+  }
+  .futures_icon5 {
+    top: 442px;
+    left: 35px;
+  }
+  .coladokal {
+    left: 35px;
+    margin-top: 32px;
+  }
+  .apendicose {
+    top: 361px;
+    left: 35px;
+  }
+  .pak {
+    top: 489px;
+    left: 35px;
+  }
+  .jor {
+    left: 35px;
+    margin-top: 37px;
+  }
+  .aktopic {
+    left: 35px;
+    margin-top: 34px;
+  }
+}
+@media (min-width: 363px) and (max-width: 479px) {
+  .futures_icon3 {
+    left: 35px;
+    margin-top: 0px;
+  }
+  .futures_icon4 {
+    top: 324px;
+    left: 35px;
+  }
+  .futures_icon5 {
+    top: 427px;
+    left: 35px;
+  }
+  .coladokal {
+    left: 35px;
+    margin-top: 2px;
+  }
+  .apendicose {
+    top: 321px;
+    left: 35px;
+  }
+  .pak {
+    top: 445px;
+    left: 35px;
+  }
+  .jor {
+    left: 35px;
+    margin-top: 25px;
+  }
+  .aktopic {
+    left: 35px;
+    margin-top: 34px;
+  }
+}
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 480px) and (max-width: 575.98px) {
+  /*  Menu Part Start  */
+  .navbar-toggler-icon {
+    background: #fff;
+    border-radius: 2px;
+  }
+
+  .navbar-nav {
+    text-align: center;
+    background: #444;
+    padding-bottom: 10px;
+  }
+  #home_icon {
+    top: 258px;
+  }
+
+  .navbar-light .navbar-nav .nav-link::after {
+    width: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0px;
+  }
+
+  .sadi_trial {
+    margin-top: 10px;
+  }
+
+  .banner_topt_ext p {
+    padding-left: 12%;
+    padding-bottom: 45px;
+  }
+
+  .banner_img img {
+    height: 400px;
+  }
+
+  .apple a {
+    font-size: 15px;
+  }
+
+  .andriod h5,
+  .apple h5 {
+    font-size: 12px;
+    padding: 0px 28px 0px 50px;
+  }
+
+  .bn_icon,
+  .bn_icon2 {
+    top: 12px;
+    left: 10px;
+    font-size: 32px;
+  }
+
+  .bn_icon {
+    font-size: 26px;
+    top: 17px;
+    left: 5px;
+  }
+
+  .andriod a {
+    font-size: 15px;
+  }
+
+  .slick-dots {
+    top: 50%;
+  }
+
+  .banner_topt_ext h2 {
+    font-size: 38px;
+  }
+
+  .banner_topt_ext h3 {
+    font-size: 19px;
+    padding-bottom: 28px;
+  }
+
+  .banner_topt_ext h3::after {
+    top: 43px;
+  }
+
+  #about_part {
+    padding: 30px 0px;
+  }
+
+  .sm_sadi {
+    margin-top: 30px;
+  }
+
+  .about_left_text h3::before {
+    top: 55px;
+    left: 42%;
+    transform: translateX(-45%);
+  }
+
+  .bdr_btm::after {
+    top: 50px;
+    right: 71px;
+  }
+
+  .about_left_text h3::after {
+    top: 55px;
+    right: 148px;
+    transform: translateX(-45%);
+  }
+
+  .bdr_btm::before {
+    top: 50px;
+    left: -16px;
+  }
+
+  .sadi_future {
+    text-align: center;
+  }
+
+  .futures_icon {
+    left: 124px;
+  }
+
+  .futures_sub::before {
+    left: 97px;
+  }
+
+  .futures_icon2 {
+    left: 124px;
+  }
+
+  .sub_scnd::before {
+    left: 116px;
+  }
+
+  .futures_icon3 {
+    left: 122px;
+  }
+
+  .futures_sub_glob {
+    margin-left: 130px;
+  }
+
+  .futures_sub_glob::before {
+    left: 37px;
+  }
+
+  .futures_icon4 {
+    top: 324px;
+    left: 127px;
+  }
+
+  .futures_sub_chat::before {
+    left: 113px;
+  }
+
+  .futures_icon5 {
+    top: 443px;
+    left: 123px;
+  }
+
+  .futures_right {
+    text-align: center !important;
+  }
+  .ot_icon {
+    top: 422px;
+    left: 123px;
+  }
+  .polistic_icon {
+    top: 426px;
+    left: 123px;
+  }
+  .visit_mt {
+    margin-top: 20px;
+  }
+  .futures_heading h3::before {
+    top: 56px;
+    left: 169px;
+  }
+
+  .futures_heading h3::after {
+    top: 52px;
+    left: 165px;
+  }
+
+  #screenshoot_slider {
+    padding: 60px 0px;
+  }
+
+  .screen_headingt h2::after {
+    top: 52px;
+    left: 164px;
+  }
+  .shott::before {
+    top: 55px;
+    right: 33px;
+  }
+  .shott::after {
+    top: 51px;
+    right: 28px;
+  }
+  .tean_be::before {
+    right: 29px;
+  }
+  .tean_be::after {
+    top: 55px;
+    right: 34px;
+  }
+
+  .screen_headingt h2::before {
+    top: 56px;
+    left: 169px;
+  }
+
+  .video_section {
+    padding: 130px 0px;
+  }
+
+  #pricing_part {
+    padding: 60px 0px 0px 0px;
+  }
+
+  .sadi_sm_price {
+    margin-top: 60px;
+  }
+
+  .pricing_heading h2::before {
+    top: 51px;
+    left: 165px;
+  }
+  .sadi_sm_ex {
+    margin-top: 60px;
+  }
+
+  .pricing_heading::after {
+    top: 55px;
+    left: 184px;
+  }
+
+  #team_part {
+    padding: 60px 0px;
+  }
+
+  .sadi_sm_card {
+    margin: auto;
+  }
+  .sadi_sm_team {
+    margin-top: 60px;
+  }
+
+  .team_top h2::before {
+    top: 50px;
+    left: 165px;
+  }
+
+  .team_top h2::after {
+    top: 54px;
+    left: 170px;
+  }
+
+  .feedback_heading h2::before {
+    top: 56px;
+    left: 169px;
+  }
+
+  .feedback_heading h2::after {
+    top: 52px;
+    left: 164px;
+  }
+
+  .feed_be::before {
+    left: 31px;
+  }
+
+  .feed_be::after {
+    left: 31px;
+  }
+  .cnt_hed::before {
+    top: 55px;
+    left: 10px;
+  }
+  .cnt_hed::after {
+    top: 51px;
+    left: 10px;
+  }
+
+  .fade_text_content {
+    width: 430px;
+  }
+
+  .fade_text_content::after {
+    top: 315px;
+    left: 202px;
+  }
+  .fade_text_content p {
+    padding: 0px 50px;
+  }
+
+  #contact_part {
+    padding: 60px 0px;
+  }
+
+  .contact_heading h2::before {
+    top: 56px;
+    right: 236px;
+  }
+
+  .contact_heading h2::after {
+    top: 52px;
+    right: 236px;
+  }
+  .sadi_btn {
+    margin-left: 41%;
+  }
+  .futures_sub_chat {
+    padding: 10px 30px 30px 140px;
+  }
+  .female-service {
+    margin-top: 30px;
+  }
+  .futures_sub_extra,
+  .futures_sub_extra2 {
+    padding: 10px 80px 30px 80px;
+  }
+  .female_icon {
+    margin-top: 25px;
+  }
+  .female_icon2 {
+    margin-top: 50px;
+  }
+  .female_icon3 {
+    margin-top: 50px;
+  }
+  .female_icon4 {
+    margin-top: 52px;
+    position: absolute;
+  }
+  .female_icon5 {
+    margin-top: 67px;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /*  Menu Part Start  */
+  .navbar-toggler-icon {
+    background: #fff;
+    border-radius: 2px;
+  }
+
+  .navbar-nav {
+    text-align: center;
+    background: #444;
+    padding-bottom: 10px;
+  }
+
+  .navbar-light .navbar-nav .nav-link::after {
+    width: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0px;
+  }
+
+  .sadi_trial {
+    margin-top: 10px;
+  }
+
+  .banner_topt_ext p {
+    padding-left: 12%;
+  }
+
+  .banner_img img {
+    height: 480px;
+  }
+
+  .apple a {
+    font-size: 15px;
+  }
+
+  .andriod h5,
+  .apple h5 {
+    font-size: 12px;
+    padding: 0px 28px 0px 50px;
+  }
+
+  .bn_icon,
+  .bn_icon2 {
+    top: 12px;
+    left: 10px;
+    font-size: 32px;
+  }
+
+  .bn_icon {
+    font-size: 26px;
+    top: 17px;
+    left: 5px;
+  }
+
+  .andriod a {
+    font-size: 15px;
+  }
+
+  .slick-dots {
+    top: 50%;
+  }
+
+  .banner_topt_ext h2 {
+    font-size: 44px;
+  }
+
+  .banner_topt_ext h3 {
+    font-size: 25px;
+    padding-bottom: 28px;
+  }
+
+  .banner_topt_ext h3::after {
+    top: 43px;
+  }
+
+  #about_part {
+    padding: 30px 0px;
+  }
+
+  .sm_sadi {
+    margin-top: 30px;
+  }
+
+  .about_left_text h3::before {
+    top: 55px;
+    left: 43%;
+    transform: translateX(-45%);
+  }
+
+  .bdr_btm::after {
+    top: 50px;
+    right: 73px;
+  }
+
+  .about_left_text h3::after {
+    top: 55px;
+    right: 177px;
+    transform: translateX(-45%);
+  }
+
+  .bdr_btm::before {
+    top: 50px;
+    left: -15px;
+  }
+  #home_icon {
+    top: 293px;
+  }
+  .sadi_future {
+    text-align: center;
+  }
+
+  .futures_icon {
+    left: 114px;
+  }
+  .pak_icon {
+    top: 432px !important;
+    left: 128px;
+  }
+
+  .futures_sub::before {
+    left: 130px;
+  }
+
+  .futures_icon2 {
+    left: 109px;
+  }
+
+  .sub_scnd::before {
+    left: 148px;
+  }
+
+  .futures_icon3 {
+    left: 141px;
+  }
+
+  .futures_sub_glob {
+    margin-left: 120px;
+  }
+
+  .futures_sub_glob::before {
+    left: 71px;
+  }
+
+  .futures_icon4 {
+    top: 304px;
+    left: 147px;
+  }
+
+  .futures_sub_chat::before {
+    left: 147px;
+  }
+
+  .futures_icon5 {
+    top: 402px;
+    left: 150px;
+  }
+
+  .futures_right {
+    text-align: center !important;
+  }
+
+  .futures_heading h3::before {
+    top: 56px;
+    left: 199px;
+  }
+
+  .futures_heading h3::after {
+    top: 52px;
+    left: 194px;
+  }
+
+  #screenshoot_slider {
+    padding: 60px 0px;
+  }
+
+  .screen_headingt h2::after {
+    top: 51px;
+    left: 59px;
+  }
+
+  .screen_headingt h2::before {
+    top: 55px;
+    left: 64px;
+  }
+
+  .video_section {
+    padding: 130px 0px;
+  }
+
+  #pricing_part {
+    padding: 60px 0px 0px 0px;
+  }
+
+  .sadi_sm_price {
+    margin-top: 60px;
+  }
+
+  .pricing_heading h2::before {
+    top: 51px;
+    left: 59px;
+  }
+
+  .pricing_heading::after {
+    top: 55px;
+    left: 79px;
+  }
+
+  #team_part {
+    padding: 60px 0px;
+  }
+
+  .sadi_sm_card {
+    margin: auto;
+  }
+
+  .team_top h2::before {
+    top: 51px;
+    left: 60px;
+  }
+
+  .team_top h2::after {
+    top: 55px;
+    left: 65px;
+  }
+
+  .feedback_heading h2::before {
+    top: 55px;
+    left: 64px;
+  }
+
+  .feedback_heading h2::after {
+    top: 51px;
+    left: 60px;
+  }
+
+  .feed_be::before {
+    left: 30px;
+    top: 55px;
+  }
+
+  .feed_be::after {
+    left: 30px;
+    top: 51px;
+  }
+
+  .fade_text_content {
+    width: 502px;
+  }
+
+  .fade_text_content::after {
+    top: 315px;
+    left: 243px;
+  }
+
+  #contact_part {
+    padding: 60px 0px;
+  }
+
+  .contact_heading h2::before {
+    top: 57px;
+    right: 267px;
+  }
+
+  .contact_heading h2::after {
+    top: 53px;
+    right: 266px;
+  }
+  .bdr_futures::before {
+    left: -20px;
+  }
+  .bdr_futures::after {
+    left: -20px;
+  }
+  .shott::before {
+    top: 54px;
+    right: 33px;
+  }
+  .shott::after {
+    top: 50px;
+    right: 29px;
+  }
+  .price_be::before {
+    top: 51px;
+    right: 23px;
+  }
+  .price_be::after {
+    top: 55px;
+    left: -8px;
+  }
+  .tean_be::before {
+    top: 50px;
+    right: 28px;
+  }
+  .tean_be::after {
+    top: 54px;
+    right: 33px;
+  }
+  .futures_sub_chat {
+    padding: 10px 30px 30px 140px;
+  }
+  .futures_heading h3 {
+    font-size: 20px;
+  }
+  .screen_headingt h2 {
+    font-size: 20px;
+  }
+  .pricing_heading h2 {
+    font-size: 20px;
+  }
+  .team_top h2 {
+    font-size: 20px;
+  }
+  .btn_btom a {
+    font-size: 12px;
+  }
+
+  .feedback_heading h2 {
+    font-size: 20px;
+  }
+  .contact_heading h2 {
+    font-size: 20px;
+  }
+  .female-service {
+    margin-top: 30px;
+  }
+  .futures_sub_extra,
+  .futures_sub_extra2 {
+    padding: 10px 80px 30px 80px;
+  }
+  .female_icon {
+    margin-top: 25px;
+  }
+  .female_icon2 {
+    margin-top: 50px;
+  }
+  .female_icon3 {
+    margin-top: 50px;
+  }
+  .female_icon4 {
+    margin-top: 52px;
+    position: absolute;
+  }
+  .female_icon5 {
+    margin-top: 67px;
+  }
+  .sad_jr {
+  }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /*  Menu Part Start  */
+  .navbar-toggler-icon {
+    background: #fff;
+    border-radius: 2px;
+  }
+
+  .navbar-nav {
+    text-align: center;
+    background: #444;
+    padding-bottom: 10px;
+  }
+
+  .navbar-light .navbar-nav .nav-link::after {
+    width: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0px;
+  }
+
+  .sadi_trial {
+    margin-top: 10px;
+  }
+
+  /*  Menu Part Finish  */
+  .banner_topt_ext p {
+    padding-left: 30%;
+  }
+
+  .banner_img img {
+    height: 530px;
+  }
+
+  .apple a {
+    font-size: 15px;
+  }
+
+  .andriod h5,
+  .apple h5 {
+    font-size: 12px;
+    padding: 0px 28px 0px 50px;
+  }
+
+  .bn_icon,
+  .bn_icon2 {
+    top: 12px;
+    left: 10px;
+    font-size: 30px;
+  }
+
+  .bn_icon {
+    font-size: 24px;
+    top: 17px;
+    left: 3px;
+  }
+
+  .andriod a {
+    font-size: 15px;
+  }
+
+  .slick-dots {
+    top: 45%;
+  }
+  #home_icon {
+    top: 294px;
+  }
+
+  #about_part {
+    padding: 50px 0px;
+  }
+
+  .about_left_text p {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+
+  .about_left_text h3 {
+    margin-top: 15px;
+  }
+
+  .about_left_text h3::before {
+    width: 45px;
+    top: 55px;
+    left: 158px;
+  }
+
+  .about_left_text h3::after {
+    width: 45px;
+    top: 55px;
+    right: 117px;
+  }
+
+  .bdr_btm::before {
+    width: 50px;
+    top: 50px;
+    left: -15px;
+  }
+
+  .bdr_btm::after {
+    width: 50px;
+    top: 50px;
+    right: 72px;
+  }
+
+  #futures_part {
+    padding: 50px 0px;
+  }
+
+  .futures_heading h3::before {
+    top: 56px;
+    left: 108px;
+  }
+
+  .futures_heading h3::after {
+    top: 52px;
+    left: 104px;
+  }
+
+  .futures_icon {
+    top: 15px;
+  }
+
+  .futures_icon2 {
+    top: 124px;
+  }
+
+  .futures_icon3 {
+    top: 218px;
+  }
+
+  .futures_icon5 {
+    top: 440px;
+  }
+
+  .futures_icon4 {
+    top: 332px;
+  }
+
+  .futureses_heading {
+    font-size: 16px;
+  }
+
+  .futures_sub_glob {
+    font-size: 13px;
+  }
+
+  .futures_sub,
+  .futures_sub_chat,
+  .futures_sub_shopping {
+    font-size: 13px;
+  }
+
+  .futures_sub::before {
+    width: 150px;
+    top: 50px;
+  }
+
+  .sub_scnd::before {
+    width: 141px;
+    top: 35px;
+  }
+
+  .futures_sub_glob::before {
+    width: 148px;
+    top: 47px;
+  }
+
+  .futures_sub_chat::before {
+    width: 130px;
+    top: 48px;
+  }
+
+  #screenshoot_slider {
+    padding: 50px 0px;
+  }
+
+  .screen_headingt h2::before {
+    left: 107px;
+  }
+
+  .screen_headingt h2::after {
+    left: 103px;
+  }
+
+  .video_section {
+    padding: 155px 0px;
+  }
+
+  .screen_heading h2::before {
+    top: 56px;
+    left: 20%;
+    transform: translateX(-330%);
+  }
+
+  .screen_heading h2::after {
+    top: 52px;
+    left: 115px;
+    transform: translateX(-295%);
+  }
+  .shot::before {
+    right: 26px;
+  }
+
+  .shot::after {
+    right: 21px;
+  }
+
+  .md_card {
+    margin-top: 60px;
+  }
+
+  #pricing_part {
+    padding: 50px 0px;
+  }
+
+  .pricing_heading h2::before {
+    left: 102px;
+  }
+
+  .pricing_heading::after {
+    left: 122px;
+  }
+
+  .price_be::after {
+    left: -9px;
+    top: 55px;
+  }
+
+  #team_part {
+    padding: 50px 0px;
+  }
+
+  .team_top h2::before {
+    left: 103px;
+  }
+
+  .team_top h2::after {
+    left: 108px;
+  }
+
+  .tean_be::before {
+    right: 28px;
+  }
+
+  .tean_be::after {
+    right: 33px;
+  }
+
+  .fade_text_content {
+    width: 684px;
+  }
+
+  .fade_text_content::after {
+    left: 330px;
+  }
+
+  #contact_part {
+    padding: 50px 0px;
+  }
+
+  .contact_heading h2::before {
+    top: 56px;
+    right: 117px;
+  }
+
+  .contact_heading h2::after {
+    top: 52px;
+    right: 117px;
+  }
+
+  .footer_btom p {
+    font-size: 13px;
+  }
+
+  .feedback_heading h2::before {
+    top: 56px;
+    left: 107px;
+  }
+
+  .feedback_heading h2::after {
+    top: 52px;
+    left: 103px;
+  }
+
+  .feed_be::before {
+    left: 32px;
+  }
+
+  .feed_be::after {
+    left: 32px;
+  }
+
+  .bdr_futures::before {
+    left: -20px;
+  }
+
+  .bdr_futures::after {
+    left: -20px;
+  }
+
+  .shott::before {
+    right: 34px;
+  }
+
+  .shott::after {
+    right: 29px;
+  }
+  .price_be::before {
+    right: 24px;
+    top: 51px;
+  }
+  .aktopic {
+    top: 249px;
+  }
+  .bkk_icon {
+    top: 369px;
+  }
+  .futures_icon5 {
+    top: 473px;
+  }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .banner_topt_ext p {
+    padding-left: 54%;
+  }
+  .banner_img img {
+    height: 500px;
+  }
+  #about_part {
+    padding: 60px 0px;
+  }
+  .bdr_btm::before {
+    background: #000;
+    width: 50px;
+    top: 51px;
+    left: -17px;
+  }
+
+  .bdr_btm::after {
+    width: 45px;
+    top: 55px;
+    right: 5px;
+  }
+
+  .about_left_text h3::before {
+    width: 45px;
+    left: 228px;
+    top: 56px;
+  }
+
+  .about_left_text h3::after {
+    width: 50px;
+    top: 52px;
+    left: 225px;
+  }
+  /*   Service Part */
+  .futures_heading h3::before {
+    width: 45px;
+    top: 56px;
+    left: 168px;
+  }
+
+  .futures_heading h3::after {
+    width: 50px;
+    top: 52px;
+    left: 163px;
+  }
+
+  .bdr_futures::before {
+    width: 50px;
+    top: 52px;
+    left: -20px;
+  }
+
+  .bdr_futures::after {
+    width: 45px;
+    top: 56px;
+    left: -20px;
+  }
+  #home_icon {
+    top: 271px;
+  }
+  /*   Screenshot */
+  #screenshoot_slider {
+    padding: 60px 0px;
+  }
+  .screen_headingt h2::after {
+    width: 50px;
+    top: 52px;
+    left: 164px;
+  }
+  .screen_headingt h2::before {
+    width: 45px;
+    top: 56px;
+    left: 168px;
+  }
+  .shott::after {
+    width: 50px;
+    top: 51px;
+    right: 27px;
+  }
+
+  .shott::before {
+    width: 45px;
+    top: 55px;
+    right: 32px;
+  }
+  /*  Video Part  */
+  .screen_heading h2::after {
+    width: 50px;
+    top: 52px;
+    left: 171px !important;
+  }
+  .screen_heading h2::before {
+    width: 45px;
+    top: 56px;
+    left: 176px !important;
+  }
+  .shot:after {
+    width: 50px;
+    top: 51px;
+    right: 23px;
+  }
+  .shot::before {
+    width: 45px;
+    top: 55px;
+    right: 28px;
+  }
+  .video_section {
+    padding: 180px 0px;
+  }
+  /*  Pricing Part  */
+  .pricing_heading h2::before {
+    width: 50px;
+    top: 52px;
+    left: 162px;
+  }
+  .pricing_heading::after {
+    width: 45px;
+    top: 56px;
+    left: 182px;
+  }
+  .price_be::before {
+    width: 50px;
+    top: 52px;
+    right: 24px;
+  }
+  .price_be::after {
+    width: 45px;
+    top: 56px;
+    left: -10px;
+  }
+  #pricing_part {
+    padding: 60px 0px 0px;
+  }
+  .btn_btom a {
+    font-size: 13px;
+    padding: 10px 15px;
+  }
+  /*  Team Part  */
+  .team_top h2::before {
+    width: 50px;
+    top: 51px;
+    left: 165px;
+  }
+  .team_top h2::after {
+    width: 45px;
+    top: 55px;
+    left: 170px;
+  }
+  .tean_be::before {
+    width: 50px;
+    top: 50px;
+    right: 30px;
+  }
+  .tean_be::after {
+    width: 45px;
+    top: 54px;
+    right: 35px;
+  }
+  #team_part {
+    padding: 60px 0px;
+  }
+
+  /*  Feedback Part  */
+
+  .feedback_heading h2::after {
+    width: 50px;
+    top: 52px;
+    left: 163px;
+  }
+
+  .feedback_heading h2::before {
+    width: 45px;
+    top: 56px;
+    left: 168px;
+  }
+
+  .feed_be::after {
+    width: 50px;
+    top: 52px;
+    left: 30px;
+  }
+
+  .feed_be::before {
+    width: 45px;
+    top: 56px;
+    left: 30px;
+  }
+  /*  Contact Part  */
+  .contact_heading h2::after {
+    width: 50px;
+    top: 52px;
+    right: 158px;
+  }
+
+  .contact_heading h2::before {
+    width: 45px;
+    top: 56px;
+    right: 158px;
+  }
+
+  .cnt_hed::after {
+    width: 50px;
+    top: 51px;
+    left: 12px;
+  }
+
+  #contact_part {
+    padding: 60px 0px;
+  }
+
+  .cnt_hed::before {
+    width: 45px;
+    top: 55px;
+    left: 12px;
+  }
+  .slick-dots {
+    top: 43%;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+  .screen_heading h2::after {
+    left: 223px;
+  }
+  .screen_heading h2::before {
+    left: 227px;
+  }
+  .shot:after {
+    right: 22px;
+  }
+  .shot::before {
+    right: 26px;
+  }
+}
